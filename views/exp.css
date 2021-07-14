@@ -1,0 +1,82 @@
+
+
+.progress2{ 
+    
+       margin-top: 10px;
+       margin-bottom:20px;
+       margin-left: 50px;
+}
+ 
+.progress1{ 
+    
+    margin-top: 110px;
+    
+}
+
+
+    .scroll {
+        margin-top: 100px;
+        margin-left: 106px;
+        background-color: rgb(251 251 251);
+        width: 80%;
+        height: 242px;
+        overflow-x: hidden;
+        overflow-y: auto;
+        text-align: justify;
+        position: center;
+        border-radius: 11px;
+    }
+
+    .scroll2 {
+      margin-top: 50;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 106px;
+    background-color: rgb(247 243 246);
+    width: 80%;
+    height: 242px;
+    overflow-x: hidden;
+    overflow-y: auto;
+    text-align: justify;
+    position: center;
+    border-radius: 11px;
+    padding-left: 37px;
+  }
+
+
+
+  
+
+
+
+ 
+     
+      
+      #overlay {
+        position: fixed;
+        transition: 200ms ease-in-out;
+        opacity: 0;
+        z-index: 9;
+        transition: 200ms ease-in-out;
+        top: 0;
+        left: 0;
+        right: 0;}
+    
+   .mybut{
+     
+    height: 86px;
+    width: 107px;
+    margin: 16px;
+    background-color: #081338;
+    font-family: cursive
+  
+   }
+   .mid{
+        margin-left: 42%;
+      
+   }
+   .bg-pro{
+    background-color: #7a87a9;
+    font-family: auto;
+    
+   }
